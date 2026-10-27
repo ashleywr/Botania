@@ -1,3 +1,11 @@
+# Botania — My NeoForge 1.21.1 snapshot builds
+
+This is my unofficial build of [the upstream 1.21.1 porting branch](https://github.com/VazkiiMods/Botania/tree/1.21.1-porting). The Botania authors and upstream port contributors created the mod and its port; I did not create either. My snapshot includes license packaging and omits an accidentally committed log.
+
+[My releases](https://github.com/ashleywr/Botania/releases) are development snapshots. Use the Minecraft, NeoForge, Patchouli and Curios requirements listed with the chosen JAR. A successful build does not establish full gameplay or modpack compatibility.
+
+## Upstream project documentation
+
 ![](web/assets/img/logo.png)  
 Welcome to the Botania repository.  
 
